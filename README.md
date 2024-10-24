@@ -1,7 +1,7 @@
 # Robot Indoor Navigation System 
 This project contains the following three parts:
 1. ICP Implementation for 3D Indoor Scene Reconstruction
-2. Semantic Segmentation For Object Detection
+2. Semantic Segmentation For Object Detection (under maintenance)
 3. RRT Path-Planning for Robot Navigation 
 
 ## 1. 3d Indoor Scene Reconstruction
